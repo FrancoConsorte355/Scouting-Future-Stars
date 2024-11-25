@@ -1,3 +1,6 @@
+![Logo]([/Users/eribaumann/Downloads/WhatsApp Image 2024-11-25 at 10.52.10.png](https://github.com/FrancoConsorte355/Scouting-Future-Stars/blob/main/reporte/WhatsApp%20Image%202024-11-25%20at%2010.52.10.png)),
+
+
 # Scouting the Future Stars - Proyecto Final
 
 Este repositorio contiene el proyecto final titulado "Descubriendo talentos emergentes en equipos de Los Ángeles de la NBA para 'Scouting Future Stars'", donde se realiza un análisis de jugadores jóvenes en los equipos "Los Ángeles Clippers" y "Los Ángeles Lakers" con el objetivo de identificar a las futuras estrellas de la NBA.
