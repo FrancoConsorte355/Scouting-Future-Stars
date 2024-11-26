@@ -5,7 +5,7 @@
 
 # Scouting the Future Stars - Proyecto Final
 
-Este repositorio contiene el proyecto final titulado "Descubriendo talentos emergentes en equipos de Los Ángeles de la NBA para 'Scouting Future Stars'", donde se realiza un análisis de jugadores jóvenes en los equipos "Los Ángeles Clippers" y "Los Ángeles Lakers" con el objetivo de identificar a las futuras estrellas de la NBA.
+Este repositorio contiene el proyecto final titulado "Descubriendo talentos emergentes en equipos de Los Ángeles de la NBA para Scouting Future Stars", donde se realiza un análisis de jugadores jóvenes en los equipos Los Angeles Clippers y Los Angeles Lakers con el objetivo de identificar a las futuras estrellas de la NBA.
 
 ## Participantes
 
@@ -15,31 +15,41 @@ Este repositorio contiene el proyecto final titulado "Descubriendo talentos emer
 - Alexis Medina Castañeda - Data Engineer
 
 ## Descripción
-La NBA (National Basketball Association) es una liga de baloncesto profesional en Estados Unidos con 30 equipos. Este proyecto se enfoca en descubrir y potenciar el talento emergente en los equipos con sede en Los Ángeles: "Los Ángeles Clippers" y "Los Ángeles Lakers". Se busca analizar el rendimiento de los jugadores jóvenes con alto potencial, pero con baja visibilidad en la liga.
+La NBA (National Basketball Association) es una liga de baloncesto profesional en Estados Unidos con 30 equipos. Este proyecto se enfoca en descubrir y potenciar el talento emergente en los equipos con sede en Los Ángeles: Los Angeles Clippers y Los Angeles Lakers. Se busca analizar el rendimiento de los jugadores jóvenes con alto potencial, pero con baja visibilidad en la liga.
 
 ## Objetivo del Proyecto
 Identificar a jugadores emergentes en los equipos mencionados, permitiendo a la agencia de reclutamiento de talentos 'Scouting Future Stars' iniciar negociaciones para su representación y desarrollo profesional antes de que sean descubiertos por otros.
+
+Metas específicas:
+- Descubrir el Top 5 de jugadores con potencial en cada equipo, aplicando filtros por edad (19 a 25 años) y rendimiento en la última temporada.
+- Evaluar el desempeño bajo presión en playoffs o en los últimos cuartos de los partidos.
+- Comparar el rendimiento de los mejores jugadores seleccionados con estadísticas avanzadas.
 
 ## Resultados Esperados
 El objetivo es encontrar jugadores jóvenes con gran potencial para que la agencia de talentos los represente y guíe en su carrera profesional. Esto posicionará a la agencia como líder en scouting de talentos emergentes y permitirá generar acuerdos comerciales y patrocinios en torno al éxito de estos jugadores, construyendo una base sólida y rentable para el futuro.
 
 ## Fuentes de Datos
 Se utilizará el NBA Dataset disponible en Kaggle, que contiene:
-
 - Información de 30 equipos de la NBA.
 - Más de 4800 jugadores.
 - Más de 65,000 partidos desde la temporada inaugural 1946-47.
 - Datos jugada por jugada, resultados de juegos, entre otros.
 - El archivo está en formato sqlite y tiene un tamaño de 2,36 GB.
 
+## Información Presentada
+- Datos generales de cada equipo: Nombre, ciudad, año de fundación, estadio y entrenador.
+- Estadísticas de todos los jugadores, con un enfoque en los más destacados.
+- Presentación del Top 5 jugadores por equipo, seleccionados a partir de estadísticas generales y avanzadas.
+- Comparativa entre los mejores jugadores seleccionados y el contexto general del equipo.
+
 ## Plan de Análisis
-
 El proyecto se desarrollará en cinco fases:
-
-- Definición de criterios para reconocer "talento emergente" y "jugador estrella".
-- Procesamiento y limpieza de datos, aplicando segmentaciones por edad (máximo 25 años).
-- Cálculo de métricas claves, aplicación de estadísticas descriptivas.
-- Comparación entre jugadores promesas e históricos.
+- Definición de criterios para reconocer "talento emergente".
+- Procesamiento y limpieza de datos, aplicando segmentaciones por edad (máximo 25 años) y eliminando tablas irrelevantes (jugadores inactivos, estadísticas del Combine, etc.).
+- Cálculo de métricas claves, aplicando estadísticas generales y avanzadas, tales como:
+True Shooting Percentage (TS%): Eficiencia de tiro.
+Assist Percentage (AST%): Porcentaje de asistencias sobre el total del equipo.
+- Evaluación de rendimiento bajo diferentes contextos, como presión en playoffs y en los últimos cuartos de los partidos.
 - Construcción de un dashboard interactivo en Power BI, presentando visualizaciones y conclusiones sobre los jugadores más prometedores.
 
 ## Tecnologías Utilizadas
