@@ -15,7 +15,7 @@ Este repositorio contiene el proyecto final titulado "Descubriendo talentos emer
 - Alexis Medina Castañeda - Data Engineer
 
 ## Descripción
-La NBA (National Basketball Association) es una liga de baloncesto profesional en Estados Unidos con 30 equipos. Este proyecto se enfoca en descubrir y potenciar el talento emergente en los equipos con sede en Los Ángeles: Los Angeles Clippers y Los Angeles Lakers. Se busca analizar el rendimiento de los jugadores jóvenes con alto potencial, pero con baja visibilidad en la liga.
+La NBA (National Basketball Association) es una liga de baloncesto profesional de Estados Unidos y cuenta con 30 equipos. Este proyecto se enfoca en descubrir y potenciar el talento emergente en los equipos con sede en Los Ángeles: Los Angeles Clippers y Los Angeles Lakers. Se busca analizar el rendimiento de los jugadores jóvenes con alto potencial, pero con baja visibilidad en la liga.
 
 ## Objetivo del Proyecto
 Identificar a jugadores emergentes en los equipos mencionados, permitiendo a la agencia de reclutamiento de talentos 'Scouting Future Stars' iniciar negociaciones para su representación y desarrollo profesional antes de que sean descubiertos por otros.
