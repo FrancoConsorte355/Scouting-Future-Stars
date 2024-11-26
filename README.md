@@ -11,7 +11,7 @@ Este repositorio contiene el proyecto final titulado "Descubriendo talentos emer
 
 - Bárbara Batlle Casas - Project Manager & Data Analyst
 - Erica Baumann - Data Analyst
-- Franco Consorte - Data Analyst
+- Franco Consorte - Data Engineer
 - Alexis Medina Castañeda - Data Engineer
 
 ## Descripción
