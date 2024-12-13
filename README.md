@@ -1,4 +1,4 @@
-![Logo](https://github.com/FrancoConsorte355/Scouting-Future-Stars/commit/392a69a60f4fa3447f20dd1f76aafcf52c85010e#diff-765c4208e0bb70b6014c48037676307bc5969d820edbbe571b84b6e26562817b/reporte/WhatsApp_Image_2024-12-13_at_08.12.54.jpeg)
+![Logo](https://github.com/FrancoConsorte355/Scouting-Future-Stars/reporte/WhatsApp Image 2024-12-13 at 08.12.54.jpeg)
 
 
 
