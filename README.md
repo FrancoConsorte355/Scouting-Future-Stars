@@ -5,7 +5,7 @@
 
 # Scouting the Future Stars - Proyecto Final
 
-Este repositorio contiene el proyecto final titulado "Descubriendo talentos emergentes en equipos de Los Ángeles de la NBA para Scouting Future Stars", donde se realiza un análisis de jugadores jóvenes en los equipos Los Angeles Clippers y Los Angeles Lakers con el objetivo de identificar a las futuras estrellas de la NBA.
+Este repositorio contiene el proyecto final titulado "Descubriendo talentos emergentes en equipos de la NBA para Scouting Future Stars", donde se realiza un análisis de jugadores jóvenes de todos los equipos de la liga con el objetivo de identificar a las futuras estrellas de la NBA.
 
 ## Participantes
 
