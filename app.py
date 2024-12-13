@@ -25,9 +25,9 @@ def seccion_introduccion():
         En SFS somos la empresa que mejor representa a sus jugadores, acompañándolos desde su inicio hasta el infinito. 
         Brindando soluciones basadas en datos y potenciando su talento para alcanzar el máximo nivel competitivo.
         """)
-    with col2:
+    #with col2:
         # Imagen al lado del texto
-        st.image("sfs.png", use_container_width=True)  # Coloca tu imagen en el directorio del proyecto
+       # st.image("sfs.png", use_container_width=True)  # Coloca tu imagen en el directorio del proyecto
 
 # Sección 2: Modelo Predictivo de Talentos
 def seccion_modelo():
