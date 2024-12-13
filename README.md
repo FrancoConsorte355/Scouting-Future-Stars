@@ -11,19 +11,20 @@ Este repositorio contiene el proyecto final titulado "Descubriendo talentos emer
 
 - Bárbara Batlle Casas - Project Manager & Data Analyst
 - Erica Baumann - Data Analyst
-- Franco Consorte - Data Engineer
+- Franco Consorte - Data Scientist
 - Alexis Medina Castañeda - Data Engineer
 
 ## Descripción
-La NBA (National Basketball Association) es una liga de baloncesto profesional de Estados Unidos y cuenta con 30 equipos. Este proyecto se enfoca en descubrir y potenciar el talento emergente en los equipos con sede en Los Ángeles: Los Angeles Clippers y Los Angeles Lakers. Se busca analizar el rendimiento de los jugadores jóvenes con alto potencial, pero con baja visibilidad en la liga.
+La NBA (National Basketball Association) es una liga de baloncesto profesional de Estados Unidos y cuenta con 30 equipos. Este proyecto se enfoca en descubrir y potenciar el talento emergente en los equipos de la NBA. Se busca analizar el rendimiento de los jugadores jóvenes con alto potencial, pero con baja visibilidad en la liga.
 
 ## Objetivo del Proyecto
 Identificar a jugadores emergentes en los equipos mencionados, permitiendo a la agencia de reclutamiento de talentos 'Scouting Future Stars' iniciar negociaciones para su representación y desarrollo profesional antes de que sean descubiertos por otros.
 
 Metas específicas:
-- Descubrir el Top 5 de jugadores con potencial en cada equipo, aplicando filtros por edad (19 a 25 años) y rendimiento en la última temporada.
+- Descubrir el Top 3 de jugadores con potencial, aplicando filtros por edad (19 a 21 años) y rendimiento en las últimas 4 temporada.
 - Evaluar el desempeño bajo presión en playoffs o en los últimos cuartos de los partidos.
 - Comparar el rendimiento de los mejores jugadores seleccionados con estadísticas avanzadas.
+- Analizar el rendimiento y las ganancias de jugadores consagrados con los jovenes talentos.
 
 ## Resultados Esperados
 El objetivo es encontrar jugadores jóvenes con gran potencial para que la agencia de talentos los represente y guíe en su carrera profesional. Esto posicionará a la agencia como líder en scouting de talentos emergentes y permitirá generar acuerdos comerciales y patrocinios en torno al éxito de estos jugadores, construyendo una base sólida y rentable para el futuro.
@@ -37,10 +38,11 @@ Se utilizará el NBA Dataset disponible en Kaggle, que contiene:
 - El archivo está en formato sqlite y tiene un tamaño de 2,36 GB.
 
 ## Información Presentada
-- Datos generales de cada equipo: Nombre, ciudad, año de fundación, estadio y entrenador.
+- Datos generales de la liga.
 - Estadísticas de todos los jugadores, con un enfoque en los más destacados.
-- Presentación del Top 5 jugadores por equipo, seleccionados a partir de estadísticas generales y avanzadas.
+- Presentación del Top 3 jugadores por equipo, seleccionados a partir de estadísticas generales y avanzadas.
 - Comparativa entre los mejores jugadores seleccionados y el contexto general del equipo.
+- Analisis financiero.
 
 ## Plan de Análisis
 El proyecto se desarrollará en cinco fases:
@@ -56,4 +58,5 @@ Assist Percentage (AST%): Porcentaje de asistencias sobre el total del equipo.
 - SQL / Sqlite: Gestión y procesamiento de datos.
 - Python: Análisis de datos utilizando Pandas, Matplotlib, Seaborn, y Numpy.
 - Power BI: Creación de dashboards y visualizaciones interactivas.
+- Streamlit
 
